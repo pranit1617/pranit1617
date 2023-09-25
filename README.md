@@ -2,11 +2,11 @@
 
 # 💫 About Me:
 💻 I’m currently working as an Analytics Engineer. 
-📈 I’ve delivered end to end data engineering projects on AWS and Azure cloud. Looking forward to work in GCP as well. 
-📊 BI tools I've used : Looker, Microstrategy, Tableau, Power BI
-🌱 I’m currently learning about DBT as I've worked on it with basics. But I'm well versed with SQL so I believe it won't be that difficult.
-⚡ Here are my recent projects
-🎥 Daily Tech : SQL, AWS, Exasol, Python, Looker/Microstrategy
+<br>📈 I’ve delivered end to end data engineering projects on AWS and Azure cloud. Looking forward to work in GCP as well. 
+<br>📊 BI tools I've used : Looker, Microstrategy, Tableau, Power BI
+<br>🌱 I’m currently learning about DBT as I've worked on it with basics. But I'm well versed with SQL so I believe it won't be that difficult.
+<br>⚡ Here are my recent projects
+<br>🎥 Daily Tech : SQL, AWS, Exasol, Python, Looker/Microstrategy
 
 
 # 🌐 Socials:
