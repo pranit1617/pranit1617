@@ -4,7 +4,8 @@
 💻 I’m currently working as an Analytics Engineer. 
 <br>📈 I’ve delivered end to end data engineering projects on AWS and Azure cloud. 
 <br>📊 BI tools I've used : Looker, Microstrategy, Tableau, Power BI
-<br>🌱 I’m currently learning about DBT as I've worked on it with basics. But I'm well versed with SQL so I believe it won't be that difficult.
+<br>🌱 I have worked with DBT and absolutely love it.
+<br>💡 I’m currently learning about Docker and Advanced DBT while creating self learning projects on them and uploading it to Github.
 <br>🎥 Daily Tech : SQL, AWS, Exasol, Python, Looker/Microstrategy
 
 
